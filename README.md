@@ -103,7 +103,7 @@ python data.py # or `uv run data.py`
 cargo run --release # Running in debug mode will be much slower
 ```
 
-Example result (input: `One day,`):
+Example result (after 2000 training steps, input: `One day,`):
 
 ```plain
 One day, a little girl named Lily went to the park with her mom. She saw a big tree with a big tree. She wanted to climb the tree, but it was too high.
